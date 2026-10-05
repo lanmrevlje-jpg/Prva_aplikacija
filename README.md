@@ -1,4 +1,4 @@
-# Prva moblna aplikacija
+# Prva mobilna aplikacija
 Cilji naloge:
 <ul>
   <li>Gumb, ki prikaže toast</li>
