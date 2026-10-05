@@ -1,5 +1,4 @@
 # Prva moiblna aplikacija
-<br>
 <ul>
   <li>gumb, ki prikaže toast</li>
   <li>radio button in radio button grupa</li>
