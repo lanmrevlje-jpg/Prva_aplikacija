@@ -2,7 +2,7 @@
 Cilji naloge:
 <ul>
   <li>Gumb, ki prikaže toast</li>
-  <li>Radio button in radio button grup</li>
+  <li>Radio button in radio button group</li>
   <li>FloatingActionButton, ki prikaže Snackbar</li>
 </ul>
 <img width="209" height="434" alt="Android studio Snackbar" src="https://github.com/user-attachments/assets/c159a1ac-0b0b-4e0c-b0ae-8786742286cf" />
